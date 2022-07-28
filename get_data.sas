@@ -5,3 +5,5 @@ datalines;
 2 F
 ;
 run;
+
+data two;
